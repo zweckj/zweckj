@@ -1,6 +1,6 @@
 ## 👋 Hi there
 
-I am Josef and I am currently working as **Consultant & Solution Architect @microsoft**, specializing in **Kubernetes**, **cloud-native software development**, **Infrastructure**, and **DevOps**. I enjoy designing platforms that make development simpler, operations smoother, and systems more reliable.
+I am Josef and I am currently working as **Consultant & Solution Architect** at Microsoft, specializing in **Kubernetes**, **cloud-native software development**, **Infrastructure**, and **DevOps**. I enjoy designing platforms that make development simpler, operations smoother, and systems more reliable.
 
 ---
 
